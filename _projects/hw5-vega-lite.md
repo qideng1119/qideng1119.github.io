@@ -9,16 +9,6 @@ image: assets/pngs/cars.png  # You can change this to a relevant image or delete
 description: Visualization from Homework 5 using Vega-Lite embedded with JSON.
 ---
 
-# HW5 Visualization Project
-
-<<<<<<< HEAD
-This visualization was created using Altair and Vega-Lite in a Jupyter Notebook, and embedded using a Vega JSON spec.
-
-<vegachart schema-url="{{ site.baseurl }}/assets/json/hw5_chart.json" style="width: 100%"></vegachart>
-
-## About the Data
-
-Some text here explaining the data you used, what your visualization shows, or any analysis you did.
 =======
 Seasonal Trend in Observing by State: This visualization shows the trend in the number of observations throughout different seasons in different states. Observing in different environments may exhibit different preferences and patterns. Users should focus on one state at a time to better compare trends in different seasons, as the number could get overwhelming in all states. This allows the user to see what times of the year and what states are associated with greater frequency of observation. This can provide valuable information about the frequency of observations, revealing on a large scale what areas of the country are more likely to be used and when they are, which may provide some clarity for plans, allocation of resources, or intention-making regarding the use of time and/or resources based on observation.
 <vegachart schema-url="{{ site.baseurl }}/assets/json/hw5_chart1.json" style="width: 100%"></vegachart>
