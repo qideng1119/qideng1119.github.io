@@ -3,6 +3,11 @@ name: HW5 Vega-Lite Plot
 tools: [Python, Vega-Lite, Altair]
 image: assets/pngs/cars.png
 description: Visualization from Homework 5 using Vega-Lite embedded with JSON.
+custom_js:
+  - vega.min
+  - vega-lite.min
+  - vega-embed.min
+  - justcharts
 ---
 
 ## Seasonal Trend in Observing by State
